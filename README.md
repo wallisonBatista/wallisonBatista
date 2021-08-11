@@ -26,11 +26,6 @@
   </a>  
 </div>
 
-##
-  
-<div>
-  ![Snake animation](https://github.com/wallisonBatista)  
-</div>
 
  
 
