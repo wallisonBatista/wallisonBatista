@@ -28,6 +28,10 @@
   <a href="https://wallisonb.itch.io/scripticons" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank">
   </a>  
+  
+  
+  ![Snake animation](https://github.com/wallisonBatista/wallisonBatista/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 ##
