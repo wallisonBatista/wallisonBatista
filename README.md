@@ -4,7 +4,7 @@
 
 ### Linguagens e Tecnologias
 
-<p align="sart">
+<p align="start">
     <img 
         align="left" 
         alt="HTML"
