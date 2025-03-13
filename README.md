@@ -69,6 +69,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
+<br/>
+
 ### 📊 Estatísticas
 <p>
   <img 
